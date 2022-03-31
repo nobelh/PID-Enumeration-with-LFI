@@ -9,6 +9,13 @@ I've wrote this Python script to enumerate Linux processes through the Proc File
 | **Proc File** | Name of the file we want to read from inside the PID subdirectory. |
 | **Output File** | Name of the output file. |
 
+| URL | ur |
+|-----|----|
+| URL | tb |
+| rr  | r  |
+| g   | t  |
+
+
 ### Here's screenshot of the script and output file:
 
 ![](https://github.com/nobelh/PID-Enumeration-with-LFI/blob/main/pidlfi5.png)
