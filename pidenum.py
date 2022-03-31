@@ -30,5 +30,3 @@ try:
     print ('[*] Results saved to ' + outputfilename + '\n')
 
 except: print ('*[Error] Bad Argument!')
-
-
