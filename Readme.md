@@ -4,23 +4,14 @@ I've wrote this Python script to enumerate Linux processes through the Proc File
 
 ### The parameters passed to the script are:
 
-| **URL** | The web application URL including the vulnerable parameter. |
-| **Max PID Count** | The maximum number of PIDs to try starting from 1. |
-| **Proc File** | Name of the file we want to read from inside the PID subdirectory. |
-| **Output File** | Name of the output file. |
-
-| URL | ur |
+| Parameter | Description |
 |-----|----|
-| URL | tb |
-| rr  | r  |
-| g   | t  |
-
 | URL | The web application URL including the vulnerable parameter |
 | Max PID Count | The maximum number of PIDs to try starting from 1 |
 | Proc File | Name of the file we want to read from inside the PID subdirectory |
 | Output File | Name of the output file |
 
 
-### Here's screenshot of the script and output file:
+### Here's a screenshot of the script and output file:
 
 ![](https://github.com/nobelh/PID-Enumeration-with-LFI/blob/main/pidlfi5.png)
