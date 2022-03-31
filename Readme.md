@@ -11,4 +11,4 @@ I've wrote this Python script to enumerate Linux processes through the Proc File
 
 ### Here's screenshot of the script and output file:
 
-![pidlfi5](/docs/assets/pidlfi5.png)
+![](https://github.com/nobelh/PID-Enumeration-with-LFI/blob/main/pidlfi5.png)
